@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_outline_dashboard_24px"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/navigation_maid"
+        android:icon="@drawable/ic_wc_black_24dp"
+        android:title="Maid">
+    </item>
+
+    <item
+        android:id="@+id/navigation_electrician"
+        android:icon="@drawable/ic_outline_power_24px"
+        android:title="Electrician">
+    </item>
+    <item
+        android:id="@+id/navigation_watersupply"
+        android:icon="@drawable/ic_local_offer_black_24dp"
+        android:title="WaterSupplier">
+    </item>
+</menu>
